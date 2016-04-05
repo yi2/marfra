@@ -20,7 +20,7 @@
 			<WINDOW id="leftMenu" layout="0,0,140,460" align="linear:vertical" defaultImg="#516a94">
 				<WINDOW layout="140,40" defaultImg="#ffffff" align="linear:vCenter|subCenter" padding="10,0,0,0">
 					<IMAGE layout="30sr,30sr" defaultImg="/res/logo.png" />
-					<LABEL text="농림축산식품부" fontStyle="bold" fontSize="12" margin="3,0,0,0"/>
+					<LABEL text="お願いします" fontStyle="bold" fontSize="12" margin="3,0,0,0"/>
 				</WINDOW>
 
 				<RADIO id="defaultMenu" themeId="menuItem" title="최신뉴스" url="http://m.mafra.go.kr/bbs/list.jsp?board_division=b_sec_1&amp;menu_gubun=menu_1" selected="true">
